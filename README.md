@@ -4,9 +4,9 @@ This! repository serves as my secondary GitHub account. My primary account, unfo
 
 ### Here you'll find:
 
- - **My ongoing coding explorations**
- - **Personal projects I'm actively developing**
- - **Feel free to reach out if you have any questions or are interested in collaborating!**
+ - My ongoing coding explorations
+ - Personal projects I'm actively developing
+ - Feel free to reach out if you have any questions or are interested in collaborating!
 
 **Note:** Due to the privacy issues that led to the suspension of my main account, I won't be able to share any code from it here.
 
