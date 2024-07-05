@@ -1,6 +1,6 @@
 # Hi there, It's Pratyush👋
 
-This! repository serves as my secondary GitHub account. My primary account, unfortunately, is currently disabled due to privacy concerns. I'm actively working on getting it reinstated, but in the meantime, I'll be using this space to host my projects.
+This! is my secondary GitHub account. My primary account, unfortunately, is currently disabled due to privacy concerns. I'm actively working on getting it reinstated, but in the meantime, I'll be using this space to host my projects.
 
 ### Here you'll find:
 
