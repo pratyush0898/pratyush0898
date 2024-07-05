@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, It's Pratyush👋
 
-<!--
-**pratyush0898/pratyush0898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This! repository serves as my secondary GitHub account. My primary account, unfortunately, is currently disabled due to privacy concerns. I'm actively working on getting it reinstated, but in the meantime, I'll be using this space to host my projects.
 
-Here are some ideas to get you started:
+### Here you'll find:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - **My ongoing coding explorations**
+ - **Personal projects I'm actively developing**
+ - **Feel free to reach out if you have any questions or are interested in collaborating!**
+
+**Note:** Due to the privacy issues that led to the suspension of my main account, I won't be able to share any code from it here.
+
+#### I look forward to connecting and sharing my work with you!
