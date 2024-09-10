@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>A passionate coder, web developer, and tech enthusiast from India!</b>
+  <b>A passionate programmer, web developer, and tech enthusiast from India!</b>
 </p>
 
 <p align="center">
