@@ -10,7 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/pratyush0898">
-    <img src="https://img.shields.io/github/followers/pratyush0898?label=Follow&style=social" alt="GitHub Follow" />
+    <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pratyush0898/count.svg" />
+</p>
   </a>
   </a>
 </p>
