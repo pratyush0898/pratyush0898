@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pratyush 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="222">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="333">
 </p>
 
 <p align="center">
