@@ -102,6 +102,8 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <i>"If the plan doesn't work, change the plan, but never the goal."</i>
 </p>
