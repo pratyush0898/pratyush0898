@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
@@ -38,7 +36,6 @@
 </p>
 
 
----
 
 <h2 align="center">📊 My Skills</h2>
 
@@ -80,7 +77,6 @@
 </p>
 
 
----
 
 <h2 align="center">🔭 Projects I'm Working On</h2>
 
@@ -88,8 +84,6 @@
 - **[Ecommerce Store](https://github.com/nvmPratyush/Ecommerce-store)**: An Amazon clone with core functionalities like product listings, shopping carts, and checkouts.
 - **[YouTube Clone](https://github.com/nvmPratyush/youtube)**: A simple project that mimics YouTube's basic features using React and JavaScript.
 - **[Cstyle UI](https://github.com/nvmPratyush/cstyle-ui)**: A lightweight, customizable CSS framework with React components.
-
----
 
 <h2 align="center">🌐 Connect with Me</h2>
 
@@ -107,8 +101,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>"If the plan doesn't work, change the plan, but never the goal."</i>
