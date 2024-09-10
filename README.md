@@ -82,7 +82,6 @@
 
 - **[Pratyush Portfolio](https://github.com/pratyush0898/pratyush-portfolio)**: My personal portfolio website showcasing my skills, projects, and achievements.
 - **[Ecommerce Store](https://github.com/pratyush0898/Ecommerce-store)**: An Amazon clone with core functionalities like product listings, shopping carts, and checkouts.
-- **[YouTube Clone](https://github.com/pratyush0898/youtube)**: A simple project that mimics YouTube's basic features using React and JavaScript.
 - **[Cstyle UI](https://github.com/pratyush0898/cstyle-ui)**: A lightweight, customizable CSS framework with React components.
 
 <h2 align="center">🌐 Connect with Me</h2>
