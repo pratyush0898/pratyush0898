@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-  Hi there! I'm Pratyush, a 13-year-old coding enthusiast from India. My journey into the tech world began with a fascination for how websites and applications work, leading me to dive into Full stack.
+  Hi there! I'm Pratyush, a 14-year-old coding enthusiast from India. My journey into the tech world began with a fascination for how websites and applications work, leading me to dive into Full stack.
 </p>
 
 <p align="center">
