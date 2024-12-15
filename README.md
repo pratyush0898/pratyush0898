@@ -18,13 +18,27 @@
   </a>
 </p>
 
-<p align="center">
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=pratyush0898&theme=dark&show_icons=true">
-    <img align="center" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
-</picture>
-</p>
+<div align="center">
 
+<table>
+<tr>
+<td>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0898&layout=compact&theme=dark&show_icons=true">
+    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0898&layout=compact&theme=dark&show_icons=true"/>
+</picture>
+</td>
+<td>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=pratyush0898&theme=dark&show_icons=true">
+    <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true"/>
+</picture>
+</td>
+</tr>
+</table>
+
+</div>
+ 
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
@@ -44,7 +58,6 @@
   - **Future Goals:** Exploring exciting opportunities and advancements in the tech world while continuously developing my skills.
 
 </p>
-
 
 
 <h2 align="center">📊 My Skills</h2>
