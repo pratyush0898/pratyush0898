@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Pratyush 👋</h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="333">
 </p>
@@ -116,6 +114,14 @@ Others             11 hrs 50 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 - **[Pratyush Portfolio](https://github.com/pratyush0898/pratyush-portfolio)**: My personal portfolio website showcasing my skills, projects, and achievements.
 - **[Ecommerce Store](https://github.com/pratyush0898/Ecommerce-store)**: An Amazon clone with core functionalities like product listings, shopping carts, and checkouts.
 - **[Cstyle UI](https://github.com/pratyush0898/cstyle-ui)**: A lightweight, customizable CSS framework with React components.
+
+<p align="center">
+   <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/db0adfc6-53b5-4e56-b5b8-fd3984315e63">
+    <img align="center" src="https://github.com/user-attachments/assets/db0adfc6-53b5-4e56-b5b8-fd3984315e63"/>
+   </picture>
+<p/>
+
 
 <h2 align="center">🌐 Connect with Me</h2>
 
