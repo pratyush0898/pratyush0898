@@ -98,14 +98,15 @@
 </p>
 
 <p align="center">
-
+  
 ```txt
-React              80 hrs 45 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.80 %
-JavaScript         30 hrs 12 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.10 %
-TypeScript         18 hrs 47 mins  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.65 %
-Python             15 hrs 23 mins  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.73 %
-Others             11 hrs 50 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.72 %
+NextJS             146 hrs 40 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜   45.80 %
+JavaScript          54 hrs 30 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.10 %
+TypeScript          34 hrs 05 mins  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.65 %
+Python              27 hrs 55 mins  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.73 %
+Others              21 hrs 20 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.72 %
 ```
+
 </p>
 
 
@@ -115,13 +116,14 @@ Others             11 hrs 50 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 - **[Ecommerce Store](https://github.com/pratyush0898/Ecommerce-store)**: An Amazon clone with core functionalities like product listings, shopping carts, and checkouts.
 - **[Cstyle UI](https://github.com/pratyush0898/cstyle-ui)**: A lightweight, customizable CSS framework with React components.
 
+<!--
 <p align="center">
    <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/db0adfc6-53b5-4e56-b5b8-fd3984315e63">
     <img align="center" src="https://github.com/user-attachments/assets/db0adfc6-53b5-4e56-b5b8-fd3984315e63"/>
    </picture>
 <p/>
-
+-->
 
 <h2 align="center">🌐 Connect with Me</h2>
 
@@ -143,5 +145,5 @@ Others             11 hrs 50 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <p align="center">
-  <i>"If the plan doesn't work, change the plan, but never the goal."</i>
+  <i>“If you want to buy things without looking at the price, you need to work without looking at the clock.”</i>
 </p>
