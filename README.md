@@ -29,7 +29,7 @@
 <td>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=pratyush0898&theme=dark&show_icons=true">
-    <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true"/>
+    <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=pratyush0898&show_icons=true"/>
 </picture>
 </td>
 </tr>
