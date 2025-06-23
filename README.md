@@ -32,6 +32,12 @@
     <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=pratyush0898&show_icons=true"/>
 </picture>
 </td>
+  <td>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=@pratyush0898&hide_border=true&date_format=j%20M[%20Y]">
+    <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=@pratyush0898&theme=dark&hide_border=true&date_format=j%20M[%20Y]"/>
+</picture>
+</td>
 </tr>
 </table>
 
@@ -124,6 +130,7 @@ Others              21 hrs 20 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
    </picture>
 <p/>
 -->
+
 
 <h2 align="center">🌐 Connect with Me</h2>
 
