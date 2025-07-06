@@ -118,9 +118,7 @@ Others              21 hrs 20 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <h2 align="center">🔭 Projects I'm Working On</h2>
 
-- **[Pratyush Portfolio](https://github.com/pratyush0898/pratyush-portfolio)**: My personal portfolio website showcasing my skills, projects, and achievements.
-- **[Ecommerce Store](https://github.com/pratyush0898/Ecommerce-store)**: An Amazon clone with core functionalities like product listings, shopping carts, and checkouts.
-- **[Cstyle UI](https://github.com/pratyush0898/cstyle-ui)**: A lightweight, customizable CSS framework with React components.
+- **[Flollama](https://flollama.vercel.app/)**: A full-stack, open-access AI chatbot powered by Meta’s LLaMA 2.3 and built with Next.js — for everyone, for free of cost. More about FLollam https://nvmpratyush.notion.site/Flollama-Where-ideas-flow-freely-21bfa783d34080308437d4690e2fa680
 
 <!--
 <p align="center">
