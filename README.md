@@ -142,7 +142,7 @@ Others              21 hrs 20 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <a href="https://x.com/nvmPratyush">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Profile" />
   </a>
-  <a href="https://www.instagram.com/nvm_partyush/">
+  <a href="https://www.instagram.com/pratyush0898/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
   </a>
 </p>
