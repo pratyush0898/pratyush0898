@@ -3,14 +3,7 @@
 </p>
 
 <p align="center">
-  <b>A passionate programmer, web developer, and tech enthusiast from India!</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pratyush0898">
-    <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pratyush0898/count.svg" />
+  <b>A passionate programmer, web developer, and tech enthusiast from India!</b> 
 </p>
   </a>
   </a>
@@ -118,16 +111,13 @@ Others              21 hrs 20 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <h2 align="center">🔭 Projects I'm Working On</h2>
 
-- **[Flollama](https://flollama.vercel.app/)**: A full-stack, open-access AI chatbot powered by Meta’s LLaMA 2.3 and built with Next.js — for everyone, for free of cost. More about FLollam https://nvmpratyush.notion.site/Flollama-Where-ideas-flow-freely-21bfa783d34080308437d4690e2fa680
+- **[Flollama](https://flollama.vercel.app/)**: A full-stack, open-access AI chatbot powered with Gemini 2.0 Flash-lite and built with Next.js — for everyone, for free of cost. More about FLollam https://nvmpratyush.notion.site/Flollama-Where-ideas-flow-freely-21bfa783d34080308437d4690e2fa680
 
-<!--
-<p align="center">
-   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/db0adfc6-53b5-4e56-b5b8-fd3984315e63">
-    <img align="center" src="https://github.com/user-attachments/assets/db0adfc6-53b5-4e56-b5b8-fd3984315e63"/>
-   </picture>
-<p/>
--->
+<div align="center">
+  <a href="https://github.com/pratyush0898">
+    <img src="./grid-snake.svg" alt="snake" />
+  </a>
+</div>
 
 
 <h2 align="center">🌐 Connect with Me</h2>
