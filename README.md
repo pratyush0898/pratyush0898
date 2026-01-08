@@ -10,30 +10,10 @@
 </p>
 
 <div align="center">
-
-<table>
-<tr>
-<td>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0898&layout=compact&theme=dark&show_icons=true">
-    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0898&layout=compact&theme=dark&show_icons=true"/>
-</picture>
-</td>
-<td>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=pratyush0898&theme=dark&show_icons=true">
     <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=pratyush0898&show_icons=true"/>
 </picture>
-</td>
-  <td>
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=@pratyush0898&hide_border=true&date_format=j%20M[%20Y]">
-    <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=@pratyush0898&theme=dark&hide_border=true&date_format=j%20M[%20Y]"/>
-</picture>
-</td>
-</tr>
-</table>
-
 </div>
  
 <h2 align="center">👨‍💻 About Me</h2>
